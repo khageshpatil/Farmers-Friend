@@ -1,9 +1,11 @@
 # Farmers-Friend
+
 -----------------
 Farmers Friend is an open-source project that aims to empower farmers by providing a comprehensive platform for
 data collection, analysis, and decision-making. Our platform combines cutting-edge technologies like machine
 learning, IoT sensors, and geospatial mapping to help farmers make informed decisions about their crops, soil, and
 water resources
+-----------------
 ## Features
 
 * Data collection and analysis tools
